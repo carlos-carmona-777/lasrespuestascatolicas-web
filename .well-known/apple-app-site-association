@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5L8Y7BS832.com.lasrespuestascatolicas.app"],
+        "components": [
+          { "/": "/art/*", "comment": "Pregunta: /art/{id}?t=&occ=" },
+          { "/": "/grupo/*", "comment": "Grupo: /grupo/{id}?t=&occ=" },
+          { "/": "/sm/*", "comment": "Sección: /sm/{id}" }
+        ]
+      }
+    ]
+  }
+}
